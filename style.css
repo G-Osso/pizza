@@ -1,0 +1,16 @@
+#search-container {
+  text-align: center;
+  margin: 20px;
+}
+
+#result-container {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.pizza-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  display: inline-block;
+}
